@@ -64,6 +64,7 @@ const init = () =>
   ]).then((answers) => {
     console.log(answers);
 
+    const sign = "```";
     const ReadmeString =
       `# ${answers.name}
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -85,8 +86,12 @@ ${answers.description}
     
 To install necessary dependencies, run the following command:
 
+${sign}
+
 ${answers.dependencies}
-  
+
+${sign}
+
 ## Usage
     
 ${answers.usage}
@@ -103,7 +108,11 @@ ${answers.license}
 
 To run tests, run the following command:
 
+${sign}
+
 ${answers.test}
+
+${sign}
 
 
 ## Contact
