@@ -1,8 +1,7 @@
 # Professional README Generator
 
+Video link: [https://drive.google.com/file/d/1xJkMt37jJQi1WUS5eJGF4Hp9I-3Del3Y/view?usp=sharing]
 Project link: [https://github.com/lillianhuynh/Professional_README_Generator]
-
-Github-page: [https://lillianhuynh.github.io/Professional_README_Generator/]
 
 ## Table of Contents
 
@@ -67,6 +66,6 @@ N/A
 
 Lili Huynh- lillianhuynh312@gmail.com
 Project link: [https://github.com/lillianhuynh/Professional_README_Generator]
-
+Video link: [https://drive.google.com/file/d/1xJkMt37jJQi1WUS5eJGF4Hp9I-3Del3Y/view?usp=sharing]
 
 
